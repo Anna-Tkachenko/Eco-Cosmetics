@@ -1,6 +1,6 @@
 # Eco cosmetics landing page
 Landing page for Witch of mountain winds - brand of eco cosmetics.
-- [DEMO LINK](https://Anna-Tkachenko.github.io/Eco_cosmetics/)
+- [DEMO LINK](https://anna-tkachenko.github.io/Eco-Cosmetics/)
 - [Design layout](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/brand_of_eco-cosmetics-(Edit)?node-id=1%3A2)
 
 ## Local development
